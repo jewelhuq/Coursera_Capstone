@@ -1,0 +1,8 @@
+Business Problem:
+
+In a city of your choice(Dallas ,Texas) , if someone is looking to open a business, where would you recommend that they open it?
+
+
+
+Data:
+We will use foureques api to get place information then we will use K-mean clustering to find our business problem solution. 
